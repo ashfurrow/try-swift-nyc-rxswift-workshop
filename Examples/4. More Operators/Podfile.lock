@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.5.0)
+  - NSObject+Rx (3.0.0):
+    - RxSwift (~> 3.0)
+  - RxAlamofire (3.0.3):
+    - RxAlamofire/Core (= 3.0.3)
+  - RxAlamofire/Core (3.0.3):
+    - Alamofire (~> 4.0)
+    - RxSwift (~> 3.0)
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxSwift (3.6.1)
+
+DEPENDENCIES:
+  - NSObject+Rx
+  - RxAlamofire
+  - RxCocoa
+  - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  NSObject+Rx: 9c60a6e602ca647c0b2b34403383c305b1c6edc5
+  RxAlamofire: 5eb39188c4917ad98127c0ecb4878a61b7517003
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+
+PODFILE CHECKSUM: b18ea19657808f31d6c673047a528448095fde26
+
+COCOAPODS: 1.3.1

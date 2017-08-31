@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Alamofire.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>NSObject+Rx.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Test Project.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Test ProjectTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Test ProjectUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RxAlamofire.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RxCocoa.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RxSwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>311A3F91F43ED191A279215B94847790</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>371551DFD98A9103D43168E4BD0479F0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>64CC9E274EBD6C16C53FC82EAA6FE9E7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>732675F1757373CDB84C4E968BA0D5E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>78D1924B22FEF0C924CF5EF8159774D5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>88E9EC28B8B46C3631E6B242B50F4442</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C2E209677E79F4EDDB8D82C4C7AE6829</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FBE8D8B16DCF93C2AEB4E9B9B9C92607</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
