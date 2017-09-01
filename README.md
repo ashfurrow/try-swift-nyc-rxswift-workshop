@@ -1,4 +1,4 @@
-Materials for my try! Swift NYC Workshop on RxSwift.
+Materials for my [try! Swift NYC](https://www.tryswift.co/events/2017/nyc/) Workshop on [RxSwift](http://github.com/ReactiveX/RxSwift/issues/579).
 
 Instructions
 ------------
@@ -10,3 +10,4 @@ License
 
 The code and contents of the Keynote presentation are released under the MIT license.
 
+Thanks to [Artsy](http://artsy.github.io) for their support.
