@@ -8,5 +8,5 @@ The projects in the Examples directory are integrated with CocoaPods, but all th
 License
 -------
 
-The code and contents of the Keynote presentation are released under the MIT license.
+The code and contents of the Keynote presentation are released under the MIT license. The colour scheme is [Sworn to the Sword](http://www.colourlovers.com/palette/3799127/sworn_to_the_sword) and is covered by the CC-BY-NC-SA license.
 
